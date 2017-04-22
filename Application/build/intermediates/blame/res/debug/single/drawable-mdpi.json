@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    }
+]

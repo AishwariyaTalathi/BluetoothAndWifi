@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/aishwariyatalathi/.android/build-cache/f38927d0ee8c6fe096c428db7906be4c2c90faa4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

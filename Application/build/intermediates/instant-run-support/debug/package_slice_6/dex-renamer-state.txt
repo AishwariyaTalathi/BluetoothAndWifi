@@ -1,0 +1,4 @@
+#Fri Apr 21 03:11:42 PDT 2017
+base.0=/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/aishwariyatalathi/AndroidStudioProjects/BluetoothAndWifi/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
